@@ -39,6 +39,7 @@
     padding: 16px 16px 40px 16px;
     max-width: 320px;
     border-radius: 20px;
+    box-shadow: 0 0 50px var(--Slate300);
 }
 
 .card__content {
@@ -51,7 +52,6 @@
     border: none;
     border-radius: 20px;
     background-color: white;
-    box-shadow: 0 0 50px var();
 }
 
 .card__image {
